@@ -1,0 +1,33 @@
+#LJM12914's hosts file for anti dns-pollution of GFW.
+#https://gitee.com/ljm12914/hosts/raw/master/hosts
+#https://github.com/ljm12914/hosts/main/hosts
+#last update date: 2021.10.05
+
+#image-line
+104.16.96.54 www.image-line.com
+45.60.16.94 checkout.image-line.com
+169.54.228.39 shop.image-line.com
+104.16.96.54 forum.image-line.com
+
+#github
+140.82.112.4 github.com
+140.82.112.4 *.github.com
+185.199.108.153 github.io
+185.199.108.153 *.github.io
+185.199.109.153 github.io
+185.199.109.153 *.github.io
+185.199.110.153 github.io
+185.199.110.153 *.github.io
+185.199.111.153 github.io
+185.199.111.153 *.github.io
+
+#lx-music(https://github.com/lyswhut/lx-music-desktop)
+97.64.37.235 ts.tempmusic.tk
+97.64.37.235 tm.tempmusic.tk
+
+#notion
+104.26.4.98 www.notion.so
+104.26.5.98 www.notion.so
+
+#ipaddress
+3.234.104.255 ipaddress.com
