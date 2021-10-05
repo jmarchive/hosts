@@ -22,6 +22,10 @@
 185.199.110.153 *.github.io
 185.199.111.153 github.io
 185.199.111.153 *.github.io
+185.199.108.133 raw.githubusercontent.com
+185.199.109.133 raw.githubusercontent.com
+185.199.110.133 raw.githubusercontent.com
+185.199.111.133 raw.githubusercontent.com
 
 #lx-music(https://github.com/lyswhut/lx-music-desktop)
 97.64.37.235 ts.tempmusic.tk
