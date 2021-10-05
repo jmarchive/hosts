@@ -1,6 +1,6 @@
 #LJM12914's hosts file for anti dns-pollution of GFW.
 #https://gitee.com/ljm12914/hosts/raw/master/hosts
-#https://github.com/ljm12914/hosts/main/hosts
+#https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
 #last update date: 2021.10.05
 
 #image-line
@@ -8,6 +8,7 @@
 45.60.16.94 checkout.image-line.com
 169.54.228.39 shop.image-line.com
 104.16.96.54 forum.image-line.com
+104.16.96.54 *.image-line.com
 
 #github
 140.82.112.4 github.com
@@ -30,4 +31,11 @@
 104.26.5.98 www.notion.so
 
 #ipaddress
-3.234.104.255 ipaddress.com
+209.126.119.176 ipaddress.com
+209.126.119.177 ipaddress.com
+209.126.119.224 ipaddress.com
+3.234.104.255 websites.ipaddress.com
+35.175.60.16 websites.ipaddress.com
+52.86.133.10 websites.ipaddress.com
+18.232.245.187 websites.ipaddress.com
+50.16.49.81 websites.ipaddress.com
