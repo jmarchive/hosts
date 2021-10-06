@@ -5,6 +5,8 @@
 
 LJM12914的hosts文件目前包括了一些LJM12914常去的网站。如有任何建议欢迎提issue，PR就算了。
 
+备份：[Gitee](https://gitee.com/ljm12914/hosts/raw/master/hosts)　短链：Gitee`ljm.im/hosts`　Github`ljm.im/host`
+
 ## 注意
 DNS问题只是访问国外网站诸多问题中的一个，修改hosts文件并不能保证该网站一定可访问或访问速度加快。
 
