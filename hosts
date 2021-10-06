@@ -5,10 +5,13 @@
 #last update date: 2021.10.06
 
 #image-line
-104.16.96.54 www.image-line.com
+104.16.95.54 image-line.com
+104.16.96.54 image-line.com
 45.60.16.94 checkout.image-line.com
 169.54.228.39 shop.image-line.com
-104.16.96.54 forum.image-line.com
+169.54.228.40 shop.image-line.com
+169.54.228.41 shop.image-line.com
+104.16.95.54 *.image-line.com
 104.16.96.54 *.image-line.com
 
 #github
