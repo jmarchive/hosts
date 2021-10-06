@@ -2,6 +2,7 @@
 #https://gitee.com/ljm12914/hosts/raw/master/hosts
 #https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
 #C:\Windows\System32\drivers\etc\hosts
+#Update: The same domain will be together instead of the same IP address.
 #last update date: 2021.10.06
 
 #image-line
@@ -15,20 +16,28 @@
 104.16.96.54 *.image-line.com
 
 #github
+140.82.114.9 codeload.github.com
+140.82.114.10 codeload.github.com
 140.82.112.4 github.com
+140.82.113.4 github.com
 140.82.112.4 *.github.com
+140.82.113.4 *.github.com
 185.199.108.153 github.io
-185.199.108.153 *.github.io
 185.199.109.153 github.io
-185.199.109.153 *.github.io
 185.199.110.153 github.io
-185.199.110.153 *.github.io
 185.199.111.153 github.io
+185.199.108.153 *.github.io
+185.199.109.153 *.github.io
+185.199.110.153 *.github.io
 185.199.111.153 *.github.io
 185.199.108.133 raw.githubusercontent.com
 185.199.109.133 raw.githubusercontent.com
 185.199.110.133 raw.githubusercontent.com
 185.199.111.133 raw.githubusercontent.com
+185.199.108.154 github-releases.githubusercontent.com
+185.199.109.154 github-releases.githubusercontent.com
+185.199.110.154 github-releases.githubusercontent.com
+185.199.111.154 github-releases.githubusercontent.com
 
 #lx-music(https://github.com/lyswhut/lx-music-desktop)
 97.64.37.235 *.tempmusic.tk
