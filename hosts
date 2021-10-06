@@ -2,7 +2,7 @@
 #https://gitee.com/ljm12914/hosts/raw/master/hosts
 #https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
 #C:\Windows\System32\drivers\etc\hosts
-#last update date: 2021.10.05
+#last update date: 2021.10.06
 
 #image-line
 104.16.96.54 www.image-line.com
@@ -44,3 +44,9 @@
 52.86.133.10 websites.ipaddress.com
 18.232.245.187 websites.ipaddress.com
 50.16.49.81 websites.ipaddress.com
+
+#amazon
+52.218.192.232 s3.us-west-2.amazonaws.com
+52.218.247.88 s3.us-west-2.amazonaws.com
+52.218.154.72 s3.us-west-2.amazonaws.com
+3.5.82.146 s3.us-west-2.amazonaws.com
