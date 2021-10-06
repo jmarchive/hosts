@@ -67,3 +67,9 @@
 52.218.247.88 s3.us-west-2.amazonaws.com
 52.218.154.72 s3.us-west-2.amazonaws.com
 3.5.82.146 s3.us-west-2.amazonaws.com
+
+#ghboke
+150.138.151.85 ghxi.com
+183.232.53.85 ghxi.com
+150.138.151.85 *.ghxi.com
+183.232.53.85 *.ghxi.com
