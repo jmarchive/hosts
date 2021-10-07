@@ -95,10 +95,17 @@
 13.249.93.33 geogebra.org
 13.249.93.39 geogebra.org
 13.249.93.68 geogebra.org
-13.249.93.17 *.geogebra.org
-13.249.93.33 *.geogebra.org
-13.249.93.39 *.geogebra.org
-13.249.93.68 *.geogebra.org
+13.249.93.17 www.geogebra.org
+13.249.93.33 www.geogebra.org
+13.249.93.39 www.geogebra.org
+13.249.93.68 www.geogebra.org
+52.17.139.60 api.geogebra.org
+54.73.96.98 api.geogebra.org
+54.77.144.2 api.geogebra.org
+99.84.175.27 cdn.geogebra.org
+99.84.175.99 cdn.geogebra.org
+99.84.175.102 cdn.geogebra.org
+99.84.175.109 cdn.geogebra.org
 
 #potplayer
 121.53.105.173 potplayer.daum.net
