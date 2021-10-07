@@ -3,7 +3,7 @@
 #https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
 #C:\Windows\System32\drivers\etc\hosts
 #Update: The same domain will be together instead of the same IP address.
-#last update date: 2021.10.06
+#last update date: 2021.10.07
 
 #image-line
 104.16.95.54 image-line.com
@@ -89,3 +89,19 @@
 13.249.93.107 *.mojang.com
 13.249.93.117 *.mojang.com
 13.249.93.124 *.mojang.com
+
+#geogebra
+13.249.93.17 geogebra.org
+13.249.93.33 geogebra.org
+13.249.93.39 geogebra.org
+13.249.93.68 geogebra.org
+13.249.93.17 *.geogebra.org
+13.249.93.33 *.geogebra.org
+13.249.93.39 *.geogebra.org
+13.249.93.68 *.geogebra.org
+
+#potplayer
+121.53.105.173 potplayer.daum.net
+211.249.221.178 potplayer.daum.net
+23.55.220.146 t1.daumcdn.net
+23.55.220.147 t1.daumcdn.net
