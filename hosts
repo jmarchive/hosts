@@ -1,9 +1,9 @@
-#LJM12914's hosts file for fast and accurate DNS mapping.
+#LJM12914's hosts file for anti dns-pollution of GFW.
 #https://gitee.com/ljm12914/hosts/raw/master/hosts
 #https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
 #C:\Windows\System32\drivers\etc\hosts
 #Update: The same domain will be together instead of the same IP address.
-#last update date: 2021.10.07
+#last update date: 2021.10.09
 
 #image-line
 104.16.95.54 image-line.com
@@ -74,12 +74,6 @@
 52.218.154.72 s3.us-west-2.amazonaws.com
 3.5.82.146 s3.us-west-2.amazonaws.com
 
-#ghboke
-150.138.151.85 ghxi.com
-183.232.53.85 ghxi.com
-150.138.151.85 *.ghxi.com
-183.232.53.85 *.ghxi.com
-
 #minecraft
 99.84.243.36 minecraft.net
 99.84.243.50 minecraft.net
@@ -118,3 +112,25 @@
 211.249.221.178 potplayer.daum.net
 23.55.220.146 t1.daumcdn.net
 23.55.220.147 t1.daumcdn.net
+
+#steam
+23.66.66.221 steampowered.com
+23.203.40.108 store.steampowered.com
+23.66.66.221 *.steampowered.com
+#steamcommunity.com may be GFWed.
+
+#curseforge
+104.19.146.132 curseforge.com
+104.19.147.132 curseforge.com
+104.19.146.132 *.curseforge.com
+104.19.147.132 *.curseforge.com
+99.84.175.47 media.forgecdn.net
+99.84.175.65 media.forgecdn.net
+99.84.175.68 media.forgecdn.net
+99.84.175.114 media.forgecdn.net
+
+#hCaptcha
+104.16.168.131 hcaptcha.com
+104.16.169.131 hcaptcha.com
+104.16.168.131 *.hcaptcha.com
+104.16.169.131 *.hcaptcha.com
