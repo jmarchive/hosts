@@ -1,9 +1,8 @@
-#LJM12914's hosts file for anti dns-pollution of GFW.
+#LJM12914's hosts file for fast and accurate DNS mapping.
 #https://gitee.com/ljm12914/hosts/raw/master/hosts
 #https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
 #C:\Windows\System32\drivers\etc\hosts
-#Update: The same domain will be together instead of the same IP address.
-#last update date: 2021.10.09
+#last update date: 2021.10.10
 
 #image-line
 104.16.95.54 image-line.com
@@ -110,6 +109,8 @@
 #potplayer
 121.53.105.173 potplayer.daum.net
 211.249.221.178 potplayer.daum.net
+23.55.221.200 t1.daumcdn.net
+23.55.221.202 t1.daumcdn.net
 96.17.13.82 t1.daumcdn.net
 96.17.13.98 t1.daumcdn.net
 23.55.220.146 t1.daumcdn.net
@@ -136,3 +137,17 @@
 104.16.169.131 hcaptcha.com
 104.16.168.131 *.hcaptcha.com
 104.16.169.131 *.hcaptcha.com
+
+#Minecraft Wiki(Fandom)
+151.101.0.194 fandom.com
+151.101.64.194 fandom.com
+151.101.128.194 fandom.com
+151.101.192.194 fandom.com
+151.101.0.194 *.fandom.com
+151.101.64.194 *.fandom.com
+151.101.128.194 *.fandom.com
+151.101.192.194 *.fandom.com
+
+#chunkbase
+89.187.164.66 chunkbase.com
+89.187.164.66 www.chunkbase.com
