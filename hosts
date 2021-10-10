@@ -148,6 +148,4 @@
 151.101.128.194 *.fandom.com
 151.101.192.194 *.fandom.com
 
-#chunkbase
-89.187.164.66 chunkbase.com
-89.187.164.66 www.chunkbase.com
+#chunkbase.com may be GFWed.
