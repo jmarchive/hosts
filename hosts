@@ -2,7 +2,7 @@
 #https://gitee.com/ljm12914/hosts/raw/master/hosts
 #https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
 #C:\Windows\System32\drivers\etc\hosts
-#last update date: 2021.10.10
+#last update date: 2021.10.23
 
 #image-line
 104.16.95.54 image-line.com
@@ -39,7 +39,8 @@
 185.199.111.154 github-releases.githubusercontent.com
 
 #lx-music(https://github.com/lyswhut/lx-music-desktop)
-97.64.37.235 *.tempmusic.tk
+97.64.37.235 ts.tempmusic.tk
+97.64.37.235 tm.tempmusic.tk
 
 #notion
 104.18.22.110 notion.so
