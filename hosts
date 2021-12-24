@@ -1,7 +1,8 @@
 #LJM12914's hosts file for fast and accurate DNS mapping.
 #https://gitee.com/ljm12914/hosts/raw/master/hosts
 #https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
-#last update date: 2021.10.29
+#C:\Windows\System32\drivers\etc\hosts
+#last update date: 2021.12.24
 
 #image-line
 104.16.95.54 image-line.com
@@ -16,8 +17,10 @@
 #github
 140.82.114.9 codeload.github.com
 140.82.114.10 codeload.github.com
+140.82.112.3 github.com
 140.82.112.4 github.com
 140.82.113.4 github.com
+140.82.112.3 *.github.com
 140.82.112.4 *.github.com
 140.82.113.4 *.github.com
 185.199.108.153 github.io
@@ -44,6 +47,11 @@
 185.199.109.154 github-releases.githubusercontent.com
 185.199.110.154 github-releases.githubusercontent.com
 185.199.111.154 github-releases.githubusercontent.com
+185.199.108.133 objects.githubusercontent.com
+185.199.109.133 objects.githubusercontent.com
+185.199.110.133 objects.githubusercontent.com
+185.199.111.133 objects.githubusercontent.com
+
 
 #lx-music(https://github.com/lyswhut/lx-music-desktop)
 97.64.37.235 ts.tempmusic.tk
@@ -161,3 +169,5 @@
 #namesilo
 104.18.30.76 www.namesilo.com
 104.18.31.76 www.namesilo.com
+
+#moises uses googleapis.
