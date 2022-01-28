@@ -2,7 +2,7 @@
 #https://gitee.com/ljm12914/hosts/raw/master/hosts
 #https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
 #C:\Windows\System32\drivers\etc\hosts
-#last update date: 2021.12.24
+#last update date: 2022.1.28
 
 #image-line
 104.16.95.54 image-line.com
@@ -17,12 +17,15 @@
 #github
 140.82.114.9 codeload.github.com
 140.82.114.10 codeload.github.com
+140.82.112.10 codeload.github.com
 140.82.112.3 github.com
 140.82.112.4 github.com
 140.82.113.4 github.com
+140.82.114.4 github.com
 140.82.112.3 *.github.com
 140.82.112.4 *.github.com
 140.82.113.4 *.github.com
+140.82.114.4 *.github.com
 185.199.108.153 github.io
 185.199.109.153 github.io
 185.199.110.153 github.io
@@ -52,7 +55,6 @@
 185.199.110.133 objects.githubusercontent.com
 185.199.111.133 objects.githubusercontent.com
 
-
 #lx-music(https://github.com/lyswhut/lx-music-desktop)
 97.64.37.235 ts.tempmusic.tk
 97.64.37.235 tm.tempmusic.tk
@@ -74,9 +76,16 @@
 104.18.9.31 *.notion.site
 
 #ipaddress
-209.126.119.176 ipaddress.com
-209.126.119.177 ipaddress.com
-209.126.119.224 ipaddress.com
+52.86.133.10 ipaddress.com
+50.16.49.81 ipaddress.com
+35.175.60.16 ipaddress.com
+18.232.245.187 ipaddress.com
+3.234.104.255 ipaddress.com
+18.232.245.187 www.ipaddress.com
+52.86.133.10 www.ipaddress.com
+3.234.104.255 www.ipaddress.com
+35.175.60.16 www.ipaddress.com
+50.16.49.81 www.ipaddress.com
 3.234.104.255 websites.ipaddress.com
 35.175.60.16 websites.ipaddress.com
 52.86.133.10 websites.ipaddress.com
@@ -84,6 +93,7 @@
 50.16.49.81 websites.ipaddress.com
 
 #amazon
+52.218.181.240 s3.us-west-2.amazonaws.com
 52.218.192.232 s3.us-west-2.amazonaws.com
 52.218.247.88 s3.us-west-2.amazonaws.com
 52.218.154.72 s3.us-west-2.amazonaws.com
@@ -125,6 +135,8 @@
 #potplayer
 121.53.105.173 potplayer.daum.net
 211.249.221.178 potplayer.daum.net
+23.33.44.202 t1.daumcdn.net
+23.33.44.217 t1.daumcdn.net
 23.55.221.200 t1.daumcdn.net
 23.55.221.202 t1.daumcdn.net
 96.17.13.82 t1.daumcdn.net
@@ -170,4 +182,22 @@
 104.18.30.76 www.namesilo.com
 104.18.31.76 www.namesilo.com
 
-#moises uses googleapis.
+#moises
+76.76.21.21 moises.ai
+151.101.1.195 app.moises.ai
+151.101.65.195 app.moises.ai
+142.250.190.138 securetoken.googleapis.com
+142.251.32.10 www.googleapis.com
+142.250.191.202 www.googleapis.com
+172.217.4.42 www.googleapis.com
+172.217.4.202 www.googleapis.com
+142.250.190.138 www.googleapis.com
+172.217.5.10 www.googleapis.com
+142.250.190.106 www.googleapis.com
+142.250.190.10 www.googleapis.com
+142.250.191.106 www.googleapis.com
+142.250.190.42 www.googleapis.com
+142.250.190.74 www.googleapis.com
+142.250.191.234 www.googleapis.com
+104.18.70.113 ekr.zdassets.com
+104.18.72.113 ekr.zdassets.com
