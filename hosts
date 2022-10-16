@@ -2,7 +2,11 @@
 #https://gitee.com/ljm12914/hosts/raw/master/hosts
 #https://raw.githubusercontent.com/ljm12914/hosts/main/hosts
 #C:\Windows\System32\drivers\etc\hosts
-#last update date: 2022.1.28
+#last update date: 2022.10.16
+
+#googleapis
+203.208.40.66 translate.google.com
+203.208.40.66 translate.googleapis.com
 
 #image-line
 104.16.95.54 image-line.com
